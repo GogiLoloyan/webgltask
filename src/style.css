@@ -1,0 +1,40 @@
+body {
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    background-color: #FFFFFF;
+    margin: 0px;
+    overflow: hidden;
+}
+
+
+.container {
+    position: relative;
+}
+
+#model__container {
+    max-height: 500px;
+    margin-left: 50px;
+    color: #c9c9c9;
+}
+
+.fabric__container {
+   
+}
+
+.pattern__container {
+    margin-bottom: 10px;
+
+    background-size: cover;
+    height: 60px;
+    width: 120px;
+    cursor: pointer;
+}
+
+.controls__container {
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.controls__list {}
